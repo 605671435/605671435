@@ -9,6 +9,27 @@ Master student (Jiangxi University of Science and Technology).
 * Medical image segmentation.
 * Knowledge distillation.
 
+# Papers with codes
+
+| Title | Repo |
+| ----- | ---- |
+| Attention Correction Feature and Boundary Constraint Knowledge Distillation for Efficient Medical Image Segmentation | [here](https://github.com/605671435/ACF-BCKD) |
+| Decoupled Pixel-wise Correlation for Abdominal CT Multi-organ Segmentation | [here](https://github.com/605671435/DPC-Net) |
+
+# Skills
+
+* **Python**, C, Java
+* **PyTorch**, TensorFlow
+* **Linux**
+
+# Contact
+
+Corporate E-mail: [6720210652@jxust.edu.cn](6720210652@mail.jxust.edu.cn)
+
+Private E-mail1: [a605671435@gmail.com](a605671435@gmail.com)
+
+Private E-mail2: [605671435@qq.com](605671435@qq.com)
+
 # My status
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=605671435&theme=darcula)
